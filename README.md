@@ -16,8 +16,15 @@
     * PGO
     * ML-enabled PGO
     * G1 GC
-    * `-march=native`  
+    * `-march=native`
+ * Deployment 📦
+    * Packaging and linking options
+    * Buildpacks
+    * GitHub actions  
  * Monitor 📈
     * Micrometer
     * `jvmstat`
     * JFR, JMX, `jcmd`
+* Security 🛡️
+    * Security by design
+    * SBOM support 
