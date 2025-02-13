@@ -16,8 +16,8 @@
     * PGO
     * ML-enabled PGO
     * G1 GC
-    * Memory management (`xmx` settings, pboject headers)
     * `-march=native`
+    * Memory management (`xmx` settings, pboject headers)
  * Deployment 📦
     * Packaging and linking options: dynamically linked, mostly static, static, from scratch
     * Buildpacks
