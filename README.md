@@ -16,15 +16,22 @@
     * PGO
     * ML-enabled PGO
     * G1 GC
+    * Memory management (`xmx` settings, pboject headers)
     * `-march=native`
  * Deployment 📦
-    * Packaging and linking options
+    * Packaging and linking options: dynamically linked, mostly static, static, from scratch
     * Buildpacks
     * GitHub actions  
  * Monitor 📈
     * Micrometer
     * `jvmstat`
     * JFR, JMX, `jcmd`
+* Tooling 🔮
+    * Build reports 
 * Security 🛡️
     * Security by design
-    * SBOM support 
+    * SBOM support
+    * Vulnerability Scanning
+* In the lab 👩‍🔬
+    * Layers
+    * Embedding Python
