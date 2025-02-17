@@ -18,6 +18,7 @@
   * G1 GC
   * `-march=native`
   * Memory management (`xmx` settings, object headers)
+* Testing 👨‍🔬
 * Deployment 📦
   * 👩‍💻 Packaging and linking options: dynamically linked, mostly static, static, from scratch
   * optimize for size: `-Os`
