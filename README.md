@@ -26,7 +26,7 @@
     * Native | Dynamic | Oracle Linux
     * Native | Static | From scratch 
     * Native | Static | From scratch | Optimize for size
-  * optimize for size: `-Os`
+  * scan the images for vulnerabilities & packages 🛡️
   * Buildpacks
   * GitHub actions
 * Monitor 📈
