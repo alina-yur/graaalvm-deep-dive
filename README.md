@@ -23,7 +23,8 @@
   * 👩‍💻 Packaging and linking options
     * JVM | Dynamic | OpenJDK
     * JVM | Dynamic | OpenJDK-jlink
-    * Native | Dynamic | Oracle Linux
+    * Native | Dynamic | OL?
+    * Native | Mostly static | OL?
     * Native | Static | From scratch 
     * Native | Static | From scratch | Optimize for size
   * scan the images for vulnerabilities & packages 🛡️
