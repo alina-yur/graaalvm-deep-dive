@@ -20,7 +20,12 @@
   * Memory management (`xmx` settings, object headers)
 * Testing 👨‍🔬
 * Deployment 📦
-  * 👩‍💻 Packaging and linking options: dynamically linked, mostly static, static, from scratch
+  * 👩‍💻 Packaging and linking options
+    * JVM | Dynamic | OpenJDK
+    * JVM | Dynamic | OpenJDK-jlink
+    * Native | Dynamic | Oracle Linux
+    * Native | Static | From scratch 
+    * Native | Static | From scratch | Optimize for size
   * optimize for size: `-Os`
   * Buildpacks
   * GitHub actions
