@@ -24,7 +24,7 @@
     * JVM | Dynamic | OpenJDK
     * JVM | Dynamic | OpenJDK-jlink
     * Native | Dynamic | OL?
-    * Native | Mostly static | OL?
+    * Native | Mostly static | Distroless base?
     * Native | Static | From scratch 
     * Native | Static | From scratch | Optimize for size
   * scan the images for vulnerabilities & packages 🛡️
