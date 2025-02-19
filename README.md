@@ -42,5 +42,5 @@
   * Vulnerability Scanning
 * In the lab 👩‍🔬
   * Layers
-  * Crema
+  * Debugging?
   * Embedding Python
