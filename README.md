@@ -43,4 +43,5 @@
 * In the lab 👩‍🔬
   * Layers
   * Debugging?
+  * Wasm?
   * Embedding Python
