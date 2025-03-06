@@ -43,6 +43,7 @@
 * In the lab 👩‍🔬
   * Llama3.java
   * Layers
+  * `-H:Preserve=all`
   * Debugging?
   * Wasm?
   * Embedding Python
