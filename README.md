@@ -30,16 +30,16 @@
   * scan the images for vulnerabilities & packages 🛡️
   * Buildpacks
   * GitHub actions
-* Monitor 📈
+* Security 🛡️
+  * 👩‍💻 Security by design
+  * 👩‍💻 SBOM support: exposing in Spring Actuator, `grype`
+  * Vulnerability Scanning
+* Monitoring 📈
   * 👩‍💻 Micrometer
   * 👩‍💻 `jvmstat`
   * JFR, JMX, `jcmd`
 * Tooling 🔮
   * 👩‍💻 Build reports
-* Security 🛡️
-  * 👩‍💻 Security by design
-  * 👩‍💻 SBOM support: exposing in Spring Actuator, `grype`
-  * Vulnerability Scanning
 * In the lab 👩‍🔬
   * Llama3.java
   * Layers
