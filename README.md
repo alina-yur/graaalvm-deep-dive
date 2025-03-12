@@ -46,4 +46,4 @@
   * `-H:Preserve=all`
   * Debugging?
   * Wasm?
-  * Embedding Python
+  * Embedding Python (Pygal Spring Boot)
