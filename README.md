@@ -30,7 +30,7 @@
   * scan the images for vulnerabilities & packages 🛡️
   * Buildpacks
   * GitHub actions
-* Security 🛡️
+ * Security 🛡️
   * 👩‍💻 Security by design
   * 👩‍💻 SBOM support: exposing in Spring Actuator, `grype`
   * Vulnerability Scanning
@@ -43,7 +43,7 @@
 * In the lab 👩‍🔬
   * Llama3.java
   * Layers
+  * Crema
   * `-H:Preserve=all`
-  * Debugging?
-  * Wasm?
+  * Wasm backend
   * Embedding Python (Pygal Spring Boot)
