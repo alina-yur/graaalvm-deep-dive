@@ -43,7 +43,7 @@
   * 👩‍💻 Build reports
 * In the lab 👩‍🔬
   * Llama3.java
-  * Layers
+  * Layers // add img
   * Crema
   * [`-H:Preserve=all`](https://github.com/oracle/graal/pull/10180)
   * Wasm backend
