@@ -44,6 +44,6 @@
   * Llama3.java
   * Layers
   * Crema
-  * `-H:Preserve=all`
+  * [`-H:Preserve=all`](https://github.com/oracle/graal/pull/10180)
   * Wasm backend
   * Embedding Python (Pygal Spring Boot)
