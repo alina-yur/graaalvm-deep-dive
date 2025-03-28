@@ -32,7 +32,7 @@
   * GitHub actions
  * Security 🛡️
   * 👩‍💻 Security by design
-  * 👩‍💻 SBOM support: exposing in Spring Actuator, `grype`
+  * 👩‍💻 SBOM support: exposing in Spring Actuator, `grype` exporting sbom!
   * Vulnerability Scanning
 * Monitoring 📈
   * 👩‍💻 Micrometer
