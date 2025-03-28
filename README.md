@@ -36,7 +36,7 @@
   * Vulnerability Scanning
 * Monitoring 📈
   * 👩‍💻 Micrometer
-  * 👩‍💻 `jvmstat`
+  * 👩‍💻 `jvmstat` <!-- visualvm --jdkhome /Users/ayurenko/.sdkman/candidates/java/23-graal --> 
   * JFR, JMX, `jcmd`
 * Tooling 🔮
   * 👩‍💻 Build reports
