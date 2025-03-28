@@ -30,7 +30,7 @@
   * scan the images for vulnerabilities & packages 🛡️
   * Buildpacks
   * GitHub actions
- * Security 🛡️
+* Security 🛡️
   * 👩‍💻 Security by design
   * 👩‍💻 SBOM support: exposing in Spring Actuator, `grype` exporting sbom!
   * Vulnerability Scanning
