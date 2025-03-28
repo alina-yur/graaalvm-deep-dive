@@ -23,7 +23,7 @@
   * 👩‍💻 Packaging and linking options
     * JVM | Dynamic | OpenJDK
     * JVM | Dynamic | OpenJDK-jlink
-    * Native | Dynamic | OL?
+    * Native | Dynamic | Debian
     * Native | Mostly static | Distroless base?
     * Native | Static | From scratch 
     * Native | Static | From scratch | Optimize for size
