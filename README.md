@@ -38,6 +38,7 @@
   * 👩‍💻 Micrometer
   * 👩‍💻 `jvmstat` <!-- visualvm --jdkhome /Users/ayurenko/.sdkman/candidates/java/23-graal --> 
   * JFR, JMX, `jcmd`
+  * `perf stat <process>` (event)?
 * Tooling 🔮
   * 👩‍💻 Build reports
 * In the lab 👩‍🔬
