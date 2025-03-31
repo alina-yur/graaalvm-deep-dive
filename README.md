@@ -21,9 +21,9 @@
 * Testing 👨‍🔬 <!-- mvn -Pnative test -->
 * Deployment 📦
   * 👩‍💻 Packaging and linking options
-    * JVM | Dynamic | Temurin
-    * JVM | Dynamic | OpenJDK-jlink
-    * Native | Dynamic | Java-base-debian
+    * JDK | Dynamic |
+    * JDK | Dynamic | Distroless
+    * Native | Dynamic | Jlink
     * Native | Mostly static | Distroless
     * Native | Static | From scratch 
     * Native | Static | From scratch | Optimize for size
@@ -47,7 +47,7 @@
     * _"We do these things not because they are easy, but because we thought they were going to be easy"_
   * Llama3.java
   * Layers // add img
-  * Crema
+  * Project Crema
   * [`-H:Preserve=all`](https://github.com/oracle/graal/pull/10180)
   * Wasm backend // try a demo - helloworld?
   * Embedding Python (Pygal Spring Boot)
