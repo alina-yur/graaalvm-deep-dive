@@ -21,10 +21,10 @@
 * Testing 👨‍🔬 <!-- mvn -Pnative test -->
 * Deployment 📦
   * 👩‍💻 Packaging and linking options
-    * JVM | Dynamic | OpenJDK
+    * JVM | Dynamic | Temurin
     * JVM | Dynamic | OpenJDK-jlink
-    * Native | Dynamic | Debian
-    * Native | Mostly static | Distroless base?
+    * Native | Dynamic | Java-base-debian
+    * Native | Mostly static | Distroless
     * Native | Static | From scratch 
     * Native | Static | From scratch | Optimize for size
   * scan the images for vulnerabilities & packages 🛡️
