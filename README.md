@@ -53,5 +53,5 @@
   * Layers // add img
   * Project Crema
   * [`-H:Preserve=all`](https://github.com/oracle/graal/pull/10180)
-  * Wasm backend // try a demo - helloworld?
+  * Wasm backend for Native Image
   * Embedding Python (Pygal Spring Boot)
