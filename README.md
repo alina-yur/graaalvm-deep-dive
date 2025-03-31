@@ -18,7 +18,7 @@
   * G1 GC
   * `-march=native`
   * Memory management (`xmx`, object headers)
-* Testing 👨‍🔬 // add a demo
+* Testing 👨‍🔬 <!-- mvn -Pnative test -->
 * Deployment 📦
   * 👩‍💻 Packaging and linking options
     * JVM | Dynamic | OpenJDK
