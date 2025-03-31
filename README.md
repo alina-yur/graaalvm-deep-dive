@@ -32,7 +32,7 @@
   * GitHub actions
 * Security 🛡️
   *  Security by design
-  * 👩‍💻 Vulnerability Scanning: `grype`
+  * 👩‍💻 Vulnerability Scanning: `grype` <!-- native-image-inspect --sbom ./target/demo-sbom | grype -v -->
   * 👩‍💻 SBOM support: exposing in Spring Actuator
   * GitHub Action
 * Monitoring 📈
