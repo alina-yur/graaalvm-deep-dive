@@ -12,7 +12,7 @@
   * You can use Native Image's Tracing Agent;
   * You can provide configuration manually via json.
 * Performance optimizations 🚀
-  * ]Overview of compiler optimization levels](https://github.com/alina-yur/native-spring-boot?tab=readme-ov-file#optimization-levels-in-native-image)
+  * [Overview of compiler optimization levels](https://github.com/alina-yur/native-spring-boot?tab=readme-ov-file#optimization-levels-in-native-image)
   * 👩‍💻 PGO
   * ML-enabled PGO
   * G1 GC
