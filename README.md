@@ -23,7 +23,10 @@
   * 👩‍💻 Packaging and linking options
     * JDK | Dynamic |
     * JDK | Dynamic | Distroless
-    * Native | Dynamic | Jlink
+    * JDK | Dynamic | JLink
+    * Native | Dynamic |
+      * `docker build -f Dockerfiles/Dockerfile.native -t native-spring-boot-native:latest .`
+      * `docker run -p 8080:8080 native-spring-boot-native:latest .`
     * Native | Mostly static | Distroless
     * Native | Static | From scratch 
     * Native | Static | From scratch | Optimize for size
@@ -50,7 +53,7 @@
     * _"Why do it? Because we can"_
     * _"We do these things not because they are easy, but because we thought they were going to be easy"_
   * Llama3.java
-  * Layers // add img
+  * Layers
   * Project Crema
   * [`-H:Preserve=all`](https://github.com/oracle/graal/pull/10180)
   * Wasm backend for Native Image
