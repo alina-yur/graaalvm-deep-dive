@@ -17,7 +17,7 @@
     * ML-enabled PGO
   * G1 GC
   * `-march=native`
-  * Memory management (`xmx` settings, object headers)
+  * Memory management
 * Testing 👨‍🔬 // add a demo
 * Deployment 📦
   * 👩‍💻 Packaging and linking options
