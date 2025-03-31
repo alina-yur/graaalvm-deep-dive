@@ -14,7 +14,7 @@
 * Performance optimizations 🚀
   * [Overview of compiler optimization levels](https://github.com/alina-yur/native-spring-boot?tab=readme-ov-file#optimization-levels-in-native-image)
   * 👩‍💻 PGO
-  * ML-enabled PGO
+    * ML-enabled PGO
   * G1 GC
   * `-march=native`
   * Memory management (`xmx` settings, object headers)
