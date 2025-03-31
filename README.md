@@ -31,9 +31,10 @@
   * Buildpacks
   * GitHub actions
 * Security 🛡️
-  * 👩‍💻 Security by design
-  * 👩‍💻 SBOM support: exposing in Spring Actuator, `grype` exporting sbom!
-  * Vulnerability Scanning
+  *  Security by design
+  * 👩‍💻 Vulnerability Scanning: `grype`
+  * 👩‍💻 SBOM support: exposing in Spring Actuator
+  * GitHub Action
 * Monitoring 📈
   * 👩‍💻 Micrometer
   * 👩‍💻 `jvmstat` <!-- visualvm --jdkhome /Users/ayurenko/.sdkman/candidates/java/23-graal --> 
