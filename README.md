@@ -32,17 +32,21 @@
   * GitHub actions
 * Security 🛡️
   *  Security by design
-  * 👩‍💻 Vulnerability Scanning: `grype` <!-- native-image-inspect --sbom ./target/demo-sbom | grype -v -->
+  * 👩‍💻 Vulnerability Scanning
+    * `grype`: `native-image-inspect --sbom ./target/demo-sbom | grype -v`
+    * `native-image-inspect --sbom ./target/demo-sbom>output.json`
   * 👩‍💻 SBOM support: exposing in Spring Actuator
   * GitHub Action
 * Monitoring 📈
-  * 👩‍💻 Micrometer (Tempo -> service graph)
+  * 👩‍💻 Micrometer
+    * (Tempo -> service graph)
   * 👩‍💻 `jvmstat` <!-- visualvm --jdkhome /Users/ayurenko/.sdkman/candidates/java/23-graal --> 
   * JFR, JMX, `jcmd`
-  * `perf stat <process>` (event)?
+  * `perf stat <process>`
 * Tooling 🔮
   * 👩‍💻 Build reports
 * In the lab 👩‍🔬
+  * Some of our research project slogans
     * _"Why do it? Because we can"_
     * _"We do these things not because they are easy, but because we thought they were going to be easy"_
   * Llama3.java
