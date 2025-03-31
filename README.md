@@ -36,7 +36,7 @@
   * 👩‍💻 SBOM support: exposing in Spring Actuator
   * GitHub Action
 * Monitoring 📈
-  * 👩‍💻 Micrometer
+  * 👩‍💻 Micrometer (Tempo -> service graph)
   * 👩‍💻 `jvmstat` <!-- visualvm --jdkhome /Users/ayurenko/.sdkman/candidates/java/23-graal --> 
   * JFR, JMX, `jcmd`
   * `perf stat <process>` (event)?
