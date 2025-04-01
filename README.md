@@ -21,9 +21,9 @@
 * Testing 👨‍🔬 <!-- mvn -Pnative test -->
 * Deployment 📦
   * 👩‍💻 Packaging and linking options
-    * JDK | Dynamic |
-    * JDK | Dynamic | Distroless
-    * JDK | Dynamic | JLink
+    * JDK 
+    * JDK | Distroless
+    * JDK | JLink
     * Native | Dynamic |
       * `docker build -f Dockerfiles/Dockerfile.native -t native-spring-boot-native:latest .`
       * `docker run -p 8080:8080 native-spring-boot-native:latest .`
