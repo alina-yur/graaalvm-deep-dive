@@ -53,7 +53,7 @@
     * _"Why do it? Because we can"_
     * _"We do these things not because they are easy, but because we thought they were going to be easy"_
   * Llama3.java
-  * Layers
+  * Native Image Layers
   * Project Crema
   * [`-H:Preserve=all`](https://github.com/oracle/graal/pull/10180)
   * Wasm backend for Native Image
