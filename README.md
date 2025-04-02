@@ -1,7 +1,7 @@
 # GraalVM Deep Dive
 
 * GraalVM overview 🐰
-* Migrating a Spring app to GraalVM, running on the JVM vs native 🤖
+* Migrating a Spring app to GraalVM 🤖
   * 👩‍💻 use Native Build Tools 🛠️
   * 👩‍💻 basic performance measurements with `time` 📈
 * Using libraries 📚
@@ -18,7 +18,7 @@
   * G1 GC
   * `-march=native`
   * Memory management (`xmx`, object headers)
-* Testing 👨‍🔬 <!-- mvn -Pnative test -->
+* Testing 👨‍🔬
 * Deployment 📦
   * 👩‍💻 Packaging and linking options
     * JDK 
