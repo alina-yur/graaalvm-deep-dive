@@ -31,7 +31,7 @@
 * Monitoring 📈
   * 👩‍💻 Micrometer
     * (Tempo -> service graph)
-  * 👩‍💻 `jvmstat` <!-- visualvm --jdkhome /Users/ayurenko/.sdkman/candidates/java/23-graal --> 
+  * 👩‍💻 `jvmstat`
   * JFR, JMX, `jcmd`
   * `perf stat <process>`
 * In the lab 👩‍🔬
