@@ -1,5 +1,13 @@
 # GraalVM Deep Dive
 
+
+**Bring the Action: Using GraalVM in Production by Alina Yurenko, presented at Voxxed Days Amsterdam 2024**
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=VVUngUrMjAo">
+    <img src="https://img.youtube.com/vi/VVUngUrMjAo/sddefault.jpg">
+  </a>
+</div>
+
 * GraalVM overview 🐰
 * Migrating a Spring app to GraalVM 🤖
   * 👩‍💻 use Native Build Tools 🛠️
