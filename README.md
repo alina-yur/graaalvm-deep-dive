@@ -8,6 +8,7 @@
   </a>
 </div>
 
+## Structure
 * GraalVM overview 🐰
 * Migrating a Spring app to GraalVM 🤖
   * 👩‍💻 use Native Build Tools 🛠️
