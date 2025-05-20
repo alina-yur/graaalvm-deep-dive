@@ -39,7 +39,7 @@
     * Native | Mostly static | Distroless
     * Native | Static | From scratch 
     * Native | Static | From scratch | Optimize for size
-  * scan the images for vulnerabilities & packages 🛡️
+  * Scan the images for vulnerabilities & packages 🛡️
   * Buildpacks
   * GitHub actions
 * Security 🛡️
