@@ -26,7 +26,8 @@
     * ML-enabled PGO
   * G1 GC
   * `-march=native`
-  * Memory management (`xmx`, object headers)
+  * Memory management (`xmx`, compressed object headers)
+  * Demo: [spring-petclinic](https://github.com/spring-projects/spring-petclinic)
 * Testing 👨‍🔬
 * Deployment 📦
   * 👩‍💻 Packaging and linking options
@@ -49,6 +50,7 @@
     * `native-image-inspect --sbom ./target/demo-sbom>output.json`
   * 👩‍💻 SBOM support: exposing in Spring Actuator
   * GitHub Action
+  * Demo: [native-spring-boot-sbom](https://github.com/alina-yur/native-spring-boot-sbom)
 * Monitoring 📈
   * 👩‍💻 Micrometer
     * (Tempo -> service graph)
@@ -62,7 +64,7 @@
     * _"Why do it? Because we can"_
     * _"We do these things not because they are easy, but because we thought they were going to be easy"_
   * Llama3.java
-  * Native Image Layers
+  * [Native Image Layers](https://github.com/oracle/graal/issues/7626)
   * Project Crema
   * [`-H:Preserve=all`](https://github.com/oracle/graal/pull/10180)
   * Embedding Python (Pygal Spring Boot)
