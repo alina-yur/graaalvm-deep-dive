@@ -16,7 +16,6 @@
     * ML-enabled PGO
   * G1 GC
   * `-march=native`
-* Developing & testing 👨‍🔬
 * Deployment 📦
   * 👩‍💻 Packaging and linking options
   * Buildpacks
