@@ -37,5 +37,5 @@
   * Native Image Layers
   * Project Crema
   * [`-H:Preserve=all`](https://github.com/oracle/graal/pull/10180)
-  * Embedding Python (Pygal Spring Boot)
+  * Embedding Python (Pygal charts)
   * Wasm backend for Native Image
