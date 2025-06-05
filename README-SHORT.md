@@ -35,7 +35,7 @@
   * `perf stat <process>`
 * In the lab 👩‍🔬
   * Native Image Layers
-  * Project Crema
+  * [Project Crema](https://github.com/orgs/oracle/projects/6?pane=issue&itemId=113766307&issue=oracle%7Cgraal%7C11327)
   * [`-H:Preserve=all`](https://github.com/oracle/graal/pull/10180)
   * Embedding Python (Pygal charts)
   * Wasm backend for Native Image
