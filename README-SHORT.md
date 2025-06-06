@@ -7,7 +7,7 @@
 * Using libraries 📚
   * A library might be designed to be Native-Image friendly out of the box;
   * A library might add config files to its source code;
-  * Library configuration can be provided via GraalVM Reachability Metadata Repository;
+  * Library configuration can be provided via GraalVM Reachability Metadata Repository ← Use Native Build Tools!
   * 👩‍💻 You can programmatically generate configuration via framework annotations, such as `Reflective`;
   * You can use Native Image's Tracing Agent;
   * You can provide configuration manually via json.
@@ -25,7 +25,7 @@
   * 👩‍💻 Vulnerability Scanning
     * `grype`: `native-image-inspect --sbom ./target/demo-sbom | grype -v`
     * `native-image-inspect --sbom ./target/demo-sbom>output.json`
-  * 👩‍💻 SBOM support: exposing in Spring Actuator
+  * 👩‍💻 SBOM support
   * GitHub Action
 * Monitoring 📈
   * 👩‍💻 Micrometer
