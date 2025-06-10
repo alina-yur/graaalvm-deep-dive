@@ -1,14 +1,14 @@
 # GraalVM Deep Dive
 
 * GraalVM overview 🐰
-* Migrating a Spring app to GraalVM 🤖
+* Migrating to GraalVM 🤖
   * 👩‍💻 use Native Build Tools 🛠️
   * 👩‍💻 basic performance measurements with `time` 📈
 * Using libraries 📚
   * A library might be designed to be Native-Image friendly out of the box;
   * A library might add config files to its source code;
   * Library configuration can be provided via GraalVM Reachability Metadata Repository ← Use Native Build Tools!
-  * 👩‍💻 You can programmatically generate configuration via framework annotations, such as `Reflective`;
+  * 👩‍💻 You can programmatically generate configuration via framework annotations, such as `@ReflectiveAccess`;
   * You can use Native Image's Tracing Agent;
   * You can provide configuration manually via json.
 * Peak performance optimizations 🚀
@@ -18,7 +18,7 @@
   * `-march=native`
 * Deployment 📦
   * 👩‍💻 Packaging and linking options
-  * Buildpacks
+  * Linking options: dynamic, mostly static, static
   * GitHub actions
 * Security 🛡️
   *  Security by design
