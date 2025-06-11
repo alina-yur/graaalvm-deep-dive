@@ -19,7 +19,7 @@
 * Deployment 📦
   * 👩‍💻 Packaging and linking options
   * Linking options: dynamic, mostly static, static
-  * GitHub actions
+  * CI/CD, GitHub Actions
 * Security 🛡️
   *  Security by design
   * 👩‍💻 Vulnerability Scanning
