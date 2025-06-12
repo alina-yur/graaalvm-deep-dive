@@ -1,7 +1,7 @@
 # GraalVM Deep Dive
 
 
-**Bring the Action: Using GraalVM in Production, presented at Voxxed Days Amsterdam 2024**
+**Bring the Action: Using GraalVM in Production (recording)**
 <div align="center">
   <a href="https://www.youtube.com/watch?v=VVUngUrMjAo">
     <img src="https://img.youtube.com/vi/VVUngUrMjAo/sddefault.jpg">
