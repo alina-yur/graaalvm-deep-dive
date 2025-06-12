@@ -66,7 +66,7 @@
     * _"We do these things not because they are easy, but because we thought they were going to be easy"_
   * Llama3.java
   * [Native Image Layers](https://github.com/oracle/graal/issues/7626)
-  *[Project Crema](https://github.com/orgs/oracle/projects/6?pane=issue&itemId=113766307&issue=oracle%7Cgraal%7C11327)
+  * [Project Crema](https://github.com/orgs/oracle/projects/6?pane=issue&itemId=113766307&issue=oracle%7Cgraal%7C11327)
   * [`-H:Preserve=all`](https://github.com/oracle/graal/pull/10180)
   * Embedding Python (Pygal charts)
   * Wasm backend for Native Image (javac)
